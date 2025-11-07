@@ -1,95 +1,75 @@
-<!-- 💻 README de perfil minimalista y dark -->
+<!-- README minimalista y claro -->
 <h1 align="center">👋 Hola, soy <a href="https://github.com/FranCosFerDev">FranCosFerDev</a></h1>
-<h3 align="center">Desarrollador Full Stack | Especialista en Microcontroladores | Diseñador 3D</h3>
+<h3 align="center">Desarrollador Full Stack · Microcontroladores · Diseño 3D</h3>
 
 ---
 
 ### 🧠 Sobre mí
 <p align="center">
-Soy un apasionado por la tecnología, el diseño y la ingeniería.<br>
-Disfruto crear soluciones que combinen <strong>software</strong>, <strong>hardware</strong> y <strong>creatividad</strong>.<br>
-Busco siempre escribir código limpio, optimizado y con propósito.
+Me gusta crear soluciones simples, útiles y bien construidas.<br/>
+Busco elegancia en lo esencial: buen diseño, buen código y buen producto.
 </p>
 
 ---
 
 ### 🧩 Lenguajes
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=111&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=F44336&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=F3F4F6" /></a>
 </p>
 
 ---
 
 ### ⚙️ Frameworks & Librerías
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Astro-0A0A0A?style=for-the-badge&logo=astro&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Astro-FFFFFF?style=for-the-badge&logo=astro&logoColor=111827&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=F3F4F6" /></a>
 </p>
 
 ---
 
-### 🗄️ Bases de Datos
+### 🗄️ Bases de datos
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=10A37F&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=F3F4F6" /></a>
 </p>
 
 ---
 
-### 🛠️ Herramientas y Entorno
+### 🛠️ Herramientas & Entorno
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 💡 Habilidades destacadas
-<p align="center">
-🖥️ Desarrollo <strong>full stack</strong> con React, Astro y Node.js.<br>
-⚡ Programación de <strong>microcontroladores</strong> (ARM, Arduino, ESP, PIC, STM32...).<br>
-🧱 Diseño <strong>3D profesional</strong> (Autodesk, SolidWorks, Solid Edge, NX).<br>
-🗄️ Manejo de <strong>bases de datos</strong>: MongoDB, Firebase y PostgreSQL.<br>
-🐧 Configuración y administración de <strong>servidores Linux / Windows</strong>.<br>
-🐳 Uso avanzado de <strong>Docker</strong> para entornos de desarrollo y despliegue.
+  <a href="#"><img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=111&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032&labelColor=F3F4F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111&labelColor=F3F4F6" /></a>
 </p>
 
 ---
 
 ### 📊 Estadísticas
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FranCosFerDev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FranCosFerDev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🖤 Filosofía
-<p align="center">
-<i>“La elegancia en el código no está en lo complejo, sino en lo esencial.”</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FranCosFerDev&show_icons=true&hide_border=true&theme=default" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FranCosFerDev&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Contacto
 <p align="center">
-  <a href="mailto:francosfer.tech@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/franciscocostafern%C3%A1ndez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FranCosFerDev"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:francosfer.tech@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F3F4F6" /></a>
+  <a href="https://linkedin.com/in/franciscocostafernandez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F3F4F6" /></a>
+  <a href="https://github.com/FranCosFerDev"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111&labelColor=F3F4F6" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>© 2025 FranCosFerDev — Unico</sub>
+  <sub>© 2025 FranCosFerDev — Simple, claro y útil.</sub>
 </p>
