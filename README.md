@@ -55,11 +55,12 @@
 
 ---
 
-### 📊 Estadísticas Globales
+### 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FranCosFerDev&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranCosFerDev&layout=compact&theme=transparent&title_color=0ea5e9&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FranCosFerDev&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=71717a&hide_border=true&count_private=true" alt="FranCosFerDev Stats" />
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranCosFerDev&layout=compact&theme=transparent&title_color=0ea5e9&text_color=71717a&hide_border=true&langs_count=6" alt="FranCosFerDev Languages" />
 </p>
 
 ---
