@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Fran%20Costa&fontSize=70&desc=Full%20Stack%20|%20Embedded%20Systems%20|%203D%20Design&descAlignY=75&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Francisco%20Costa&fontSize=70&desc=Full%20Stack%20|%20Embedded%20Systems%20|%203D%20Design&descAlignY=75&animation=fadeIn" alt="Banner" />
 </p>
 
 <p align="center">
