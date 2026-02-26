@@ -1,123 +1,77 @@
-<!-- ✨ README de perfil — limpio, moderno y visual -->
-<!-- Sugerencia: cambia tu banner por uno propio (Canva) y súbelo a tu repo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6B7280&text=FranCosFerDev&height=120&fontSize=60&desc=Full%20Stack%20·%20Microcontroladores%20·%203D%20Design&descAlignY=75&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Fran%20Costa&fontSize=70&desc=Full%20Stack%20|%20Embedded%20Systems%20|%203D%20Design&descAlignY=75&animation=fadeIn" alt="Banner" />
 </p>
 
 <p align="center">
-  <a href="mailto:francosfer.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=E5E7EB"></a>
-  <a href="https://linkedin.com/in/franciscocostafernandez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=E5E7EB"></a>
-  <a href="https://github.com/FranCosFerDev?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-fff?style=for-the-badge&logo=github&logoColor=111&labelColor=E5E7EB"></a>
+  <a href="mailto:francosfer.tech@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/franciscocostafernandez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/FranCosFerDev?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<h1 align="center">Hola, soy <a href="https://github.com/FranCosFerDev">FranCosFerDev</a> 👋</h1>
-<h3 align="center">Construyo soluciones elegantes que unen software, hardware y diseño.</h3>
+<h1 align="center">Ingeniería en la intersección del Software y el Hardware 🛠️</h1>
 
----
-
-## 🧠 Un poco sobre mi
 <p align="center">
-  Me mueven la precisión y la simplicidad: <b>código claro, arquitectura cuidada y productos útiles</b>.<br/>
-  Full Stack (React · Astro · Node.js) · Microcontroladores (ARM/ESP/PIC/STM32) · Diseño 3D (Autodesk, SolidWorks, Solid Edge, NX).
+  <b>Desarrollador Full Stack</b> especializado en arquitecturas escalables y <b>Sistemas Embebidos</b>. <br/> 
+  Mi enfoque une la flexibilidad del código moderno con la precisión de la ingeniería electrónica y el diseño industrial.
 </p>
 
 ---
 
-## 🚀 Proyectos destacados
-<!-- Sustituye los 4 repos por tus mejores proyectos -->
+### 🛠️ Ecosistema Técnico
+
 <table align="center">
   <tr>
-    <td>
-      <a href="https://github.com/FranCosFerDev/TODO-repo-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranCosFerDev&repo=TODO-repo-1&hide_border=true&show_owner=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>💻 Software Development</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
-    <td>
-      <a href="https://github.com/FranCosFerDev/TODO-repo-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranCosFerDev&repo=TODO-repo-2&hide_border=true&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/FranCosFerDev/TODO-repo-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranCosFerDev&repo=TODO-repo-3&hide_border=true&show_owner=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/FranCosFerDev/TODO-repo-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranCosFerDev&repo=TODO-repo-4&hide_border=true&show_owner=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>🔌 Hardware & Firmware</h4>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/SolidWorks-DA1F28?style=flat-square&logo=solidworks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fusion360-FF7D27?style=flat-square&logo=autodesk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧩 Stack
+### 🚀 Proyectos Destacados
 <p align="center">
-  <!-- Lenguajes -->
-  <a href="#"><img src="https://img.shields.io/badge/C-fff?style=for-the-badge&logo=c&logoColor=111&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-fff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=openjdk&logoColor=CC0000&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-fff?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=E5E7EB"/></a>
-</p>
-
-<p align="center">
-  <!-- Front/Back -->
-  <a href="#"><img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=111827&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=E5E7EB"/></a>
-</p>
-
-<p align="center">
-  <!-- Datos -->
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-fff?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=E5E7EB"/></a>
-</p>
-
-<p align="center">
-  <!-- DevOps / SO -->
-  <a href="#"><img src="https://img.shields.io/badge/Docker-fff?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=111&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-fff?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git&logoColor=F05032&labelColor=E5E7EB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=111&labelColor=E5E7EB"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranCosFerDev&repo=nombre-de-tu-repo-1&theme=transparent&title_color=0ea5e9&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranCosFerDev&repo=nombre-de-tu-repo-2&theme=transparent&title_color=0ea5e9&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Qué aporto
+### 📊 Estadísticas Globales
+
 <p align="center">
-  Arquitecturas limpias · DX cuidada · CI/CD pragmático · rendimiento y accesibilidad · atención a los detalles visuales.
-</p>
-
-<details>
-  <summary><b>Ver detalles técnicos</b></summary>
-
-- Microcontroladores: ARM, ESP, PIC, STM32 (C/C++, FreeRTOS, periféricos, buses, drivers).
-- 3D/CAD: Autodesk, SolidWorks, Solid Edge, NX (prototipado y documentación).
-- Servidores: Linux/Windows, nginx, PM2, Docker, backups, monitoreo básico.
-- Datos: modelado, índices, seguridad, migraciones; MongoDB/Firebase/Postgres.
-</details>
-
----
-
-## 📈 Actividad
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FranCosFerDev&show_icons=true&theme=transparent&hide_border=true&title_color=1a1a1a&icon_color=555" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FranCosFerDev&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranCosFerDev&layout=compact&theme=transparent&title_color=0ea5e9&hide_border=true" />
 </p>
 
 ---
 
-## 🖤 Principio
-<p align="center"><em>“No se trata de hacerlo funcionar, sino de hacerlo bien.”</em></p>
-
----
+<p align="center">
+  <i>"No se trata de hacerlo funcionar, sino de hacerlo bien."</i>
+</p>
 
 <p align="center">
-  <sub>© 2025 FranCosFerDev · Hecho con intención y detalle</sub>
+  <img src="https://komarev.com/ghpvc/?username=FranCosFerDev&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
+
+<p align="center">
+  <sub>© 2025 FranCosFerDev · Diseñado con precisión</sub>
 </p>
